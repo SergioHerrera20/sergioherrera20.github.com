@@ -1,2 +1,2 @@
-# sergioherrera20.github.com
+# sergioherrera20.github.io
 The website for Web Design For Everyone
